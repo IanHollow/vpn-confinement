@@ -24,7 +24,7 @@ jobs:
       - name: Generate options reference
         run: bash scripts/generate-options-doc.sh x86_64-linux
       - name: Setup Node
-        uses: actions/setup-node@v6
+        uses: actions/setup-node@v7
         with:
           node-version: "latest"
       - name: Setup Bun
