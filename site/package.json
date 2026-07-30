@@ -12,7 +12,7 @@
     "preview": "astro preview"
   },
   "dependencies": {
-    "@astrojs/starlight": "^0.38.5",
+    "@astrojs/starlight": "^0.41.4",
     "@astrojs/starlight-tailwind": "^5.0.0",
     "@tailwindcss/vite": "^4.3.3",
     "astro": "^6.4.8",
